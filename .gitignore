@@ -1,0 +1,12 @@
+# .gitignore
+
+# Django
+db.sqlite3
+
+# Virtual environments
+.env
+venv/
+
+# OS
+.DS_Store
+.DS_Store?
